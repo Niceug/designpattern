@@ -1,4 +1,4 @@
-package com.ltp.test.design.chain;
+package com.leetp.designpattern.chain;
 
 /**
  * @Description 装饰

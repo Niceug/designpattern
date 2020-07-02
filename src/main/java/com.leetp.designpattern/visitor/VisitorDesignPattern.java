@@ -1,4 +1,4 @@
-package com.ltp.test.design.visitor;
+package com.leetp.designpattern.visitor;
 
 /**
  * @Description 访问者设计模式

@@ -1,4 +1,4 @@
-package com.ltp.test.design.proxy.staticproxy;
+package com.leetp.designpattern.proxy.staticproxy;
 
 import java.util.Calendar;
 

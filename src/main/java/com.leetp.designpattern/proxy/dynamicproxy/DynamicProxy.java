@@ -1,4 +1,4 @@
-package com.ltp.test.design.proxy.dynamicproxy;
+package com.leetp.designpattern.proxy.dynamicproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

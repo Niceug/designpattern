@@ -1,4 +1,4 @@
-package com.ltp.test.design.state;
+package com.leetp.designpattern.state;
 
 import lombok.Data;
 
